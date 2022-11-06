@@ -1,0 +1,26 @@
+﻿  Source_1.cpp
+D:\compmath\5 semestr\lab_1\lab_1\polinom.hpp(227,17): warning C4984: "if constexpr" — расширение языка C++17
+D:\compmath\5 semestr\lab_1\lab_1\polinom.hpp(316): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "setm::Polynomial<T>"
+D:\compmath\5 semestr\lab_1\lab_1\polinom.hpp(245,17): warning C4984: "if constexpr" — расширение языка C++17
+D:\compmath\5 semestr\lab_1\lab_1\Source_1.cpp(48,18): warning C4244: =: преобразование "_Ty" в "float", возможна потеря данных
+          with
+          [
+              _Ty=ftype
+          ]
+D:\compmath\5 semestr\lab_1\lab_1\Source_1.cpp(64,28): warning C4244: инициализация: преобразование "long double" в "int", возможна потеря данных
+D:\compmath\5 semestr\lab_1\lab_1\Source_1.cpp(64,16): warning C4244: инициализация: преобразование "long double" в "const int", возможна потеря данных
+D:\compmath\5 semestr\lab_1\lab_1\Source_1.cpp(72,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\compmath\5 semestr\lab_1\lab_1\Source_1.cpp(194,8): warning C4244: инициализация: преобразование "long double" в "int", возможна потеря данных
+D:\compmath\5 semestr\lab_1\lab_1\Source_1.cpp(206,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\compmath\5 semestr\lab_1\lab_1\Source_1.cpp(271,11): warning C4244: аргумент: преобразование "long double" в "const unsigned int", возможна потеря данных
+D:\compmath\5 semestr\lab_1\lab_1\Source_1.cpp(272,11): warning C4244: аргумент: преобразование "long double" в "const unsigned int", возможна потеря данных
+D:\compmath\5 semestr\lab_1\lab_1\Source_1.cpp(273,11): warning C4244: аргумент: преобразование "long double" в "const unsigned int", возможна потеря данных
+D:\compmath\5 semestr\lab_1\lab_1\Source_1.cpp(274,9): warning C4244: аргумент: преобразование "const ftype" в "const unsigned int", возможна потеря данных
+D:\compmath\5 semestr\lab_1\lab_1\Source_1.cpp(337,9): warning C4244: инициализация: преобразование "ftype" в "int", возможна потеря данных
+D:\compmath\5 semestr\lab_1\lab_1\Source_1.cpp(338,9): warning C4244: инициализация: преобразование "ftype" в "int", возможна потеря данных
+D:\compmath\5 semestr\lab_1\lab_1\Source_1.cpp(339,9): warning C4244: инициализация: преобразование "ftype" в "int", возможна потеря данных
+D:\compmath\5 semestr\lab_1\lab_1\Source_1.cpp(340,9): warning C4244: инициализация: преобразование "ftype" в "int", возможна потеря данных
+D:\compmath\5 semestr\lab_1\lab_1\Source_1.cpp(256,8): warning C4101: Z: неиспользованная локальная переменная
+D:\compmath\5 semestr\lab_1\lab_1\Source_1.cpp(257,8): warning C4101: P_1: неиспользованная локальная переменная
+D:\compmath\5 semestr\lab_1\lab_1\Source_1.cpp(171): warning C4715: is_positiv: значение возвращается не при всех путях выполнения
+  lab_1.vcxproj -> D:\compmath\5 semestr\lab_1\Debug\lab_1.exe
